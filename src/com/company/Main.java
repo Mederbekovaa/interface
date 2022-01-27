@@ -1,13 +1,21 @@
 package com.company;
 
-import interfaces.Child;
 
 public class Main {
-
     public static void main(String[] args) {
-        Child child = new Child();
-        child.sayMom("Emili");
-        child.sayFather("Aidin");
+
+//  Interface - определяет как элементы будут взаимодействовать между собой.
+//     interface отличается от обычного класса, тем что,
+//     у него неограниченное наследование и т д .
+//     Ссылка-это указатель на обьект.
+//     Сделать в родительском классе конструктор с соответствующим параметром.
+
+
+
+
+
+
+
     }
 }
 
